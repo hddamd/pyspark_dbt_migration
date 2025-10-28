@@ -1,0 +1,12 @@
+postgres_profile:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: postgres
+      user: admin
+      password: admin
+      port: 5432
+      dbname: migration
+      schema: raw_data
+      threads: 4
