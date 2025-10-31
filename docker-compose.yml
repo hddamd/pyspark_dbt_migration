@@ -1,6 +1,6 @@
 services:
   pyspark:
-    build: pyspark/.
+    build: .
     container_name: pyspark
     ports:
       - "8888:8888"   # Accès au notebook Jupyter

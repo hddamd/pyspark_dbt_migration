@@ -1,5 +1,7 @@
 FROM jupyter/pyspark-notebook
 
+RUN echo pwd
+
 # Create working directory
 WORKDIR /workspace
 
