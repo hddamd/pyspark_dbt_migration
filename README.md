@@ -1,8 +1,3 @@
-Perfect ✅ — here’s your **GitHub-ready README** version of the PySpark + dbt audit migration exercise (formatted in Markdown for a clean, professional repo).
-You can copy this directly into a `README.md` file for your study project or interview prep repo.
-
----
-
 ````markdown
 # 🚀 Advanced Data Engineering Exercise — PySpark → dbt Audit Migration
 
@@ -222,5 +217,3 @@ The interviewer will assess:
 
 **Good luck — and remember: optimize first, automate second!** 🚀
 ```
-
----
